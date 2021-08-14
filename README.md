@@ -1,5 +1,4 @@
-# Data-Science-Projects
-Data Science projects
+# Data Science Projects
 
 List of Data Science Projects
 1. Predicting Online Customers' Purchasing Intention
