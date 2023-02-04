@@ -2,6 +2,5 @@
 
 List of Data Science Projects
 1. Predicting Online Customers' Purchasing Intention
-2. MCA Analysis (https://rpubs.com/vidyav_codes/798187)
-3. Topic Modelling - Reviews of Shopify App Stores
-4. Recommendation Engine (AWS Sagemaker)
+2. MCA Analysis of the Important Aspects of a Government's Responsiblity in Australia and Switzerland  (https://rpubs.com/vidyav_codes/798187)
+3. Recommendation Engine (AWS Sagemaker)
